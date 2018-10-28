@@ -1,0 +1,24 @@
+- Binary Choices
+
+* Looks real, or is iconised
+* 3D or 2D in appearance
+* Transparency- are parts of image see through?
+* Shading- glat shading through to 'realistic'
+* Square Edged, rounded square, circular etc.
+* Axis of Symmetry / Mirroing
+
+- Breaking your rules
+
+* Rules are meant to be broken?
+* Break little things whilst keeping to the idea of the rule
+* Slipping too far from your specification will lead to inconsistency
+* Consistency is important with a collection!
+
+- My specification:
+
+* iconised.
+* 2D.
+* No transparency.
+* Shading- flat shading.
+* Circular.
+* No axis of Symmetry.
